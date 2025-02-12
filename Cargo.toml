@@ -1,0 +1,11 @@
+[package]
+name = "function_plotter_gui_3D"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.22"
+egui = "0.22"
+meval = "0.2"
+kiss3d = "0.34"
+nalgebra = "0.32"
